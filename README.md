@@ -2,6 +2,7 @@
 Adjustable collection view with dragging
 
 Collection view with ability to drag the cell to reorganize it.  
+![Alt text](/adjustable collection view.gif?raw=true "screen shot")  
 How to use it:  
 Step one, set the view controller to be the delegate of ZJLAdjustableCollectionViewDataSource,ZJLAdjustableCollectionViewDelegate.  
 
